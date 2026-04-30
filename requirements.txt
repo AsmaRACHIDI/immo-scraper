@@ -1,5 +1,8 @@
+colorama==0.4.6
+coverage==7.13.5
 fastjsonschema==2.21.2
 idna==3.13
+iniconfig==2.3.0
 itsdangerous==2.2.0
 json5==0.14.0
 jsonpointer==3.1.1
@@ -16,6 +19,7 @@ pandocfilters==1.5.1
 parso==0.8.6
 pillow==12.2.0
 platformdirs==4.9.6
+pluggy==1.6.0
 prometheus_client==0.25.0
 protobuf==7.34.1
 psutil==7.2.2
@@ -24,6 +28,8 @@ pure_eval==0.2.3
 pyarrow==24.0.0
 pycparser==3.0
 Pygments==2.20.0
+pytest==9.0.3
+pytest-cov==7.1.0
 python-dotenv==1.2.2
 python-json-logger==4.1.0
 python-multipart==0.0.27
