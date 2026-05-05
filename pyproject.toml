@@ -1,0 +1,12 @@
+[project]
+name = "immo-scraper"
+version = "0.1.0"
+description = "Scraping immobilier français + analyse de marché"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -6,3 +6,7 @@ data/
 .DS_Store
 *.egg-info/
 .pytest_cache/
+.coverage
+htmlcov/
+
+ma_fiche_memo.md
